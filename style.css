@@ -1,0 +1,43 @@
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+header{
+    text-align: left;
+    color: white;
+    background-color: transparent;
+    padding: 30px;
+}
+marquee{
+    background-color: transparent;
+    color: white;
+}
+button:hover{
+    background-color: rgba(0, 255, 255, 0.623);
+}
+main{
+    text-align: center;
+}
+button{
+    text-align: center;
+    width: 100%;
+    display: block;
+    padding: 48px 30px;
+    background-color: #160f52b0;
+    font-size: 50px;
+    color: white;
+    border-radius: 15px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgba(21, 21, 82, 0.774);
+    padding:30px;
+}
