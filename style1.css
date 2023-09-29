@@ -1,7 +1,7 @@
 BODY {
     font-family: Trebuchet MS;
     margin:20px;
-    background-color: slateblue;
+    background-color: rgb(94, 79, 192);
   }
   
   H1 {
@@ -29,12 +29,12 @@ BODY {
     text-align: center;
   }
   .myTimetable TBODY TR TD:first-child {
-    background-color: cornflowerblue;
+    background-color: rgb(114, 154, 228);
     font-weight: bold;
   }
   
   .break, .lunch {
-    background-color: cornflowerblue !important;
+    background-color: rgb(7, 67, 177) !important;
     font-style: italic;
   }
   
